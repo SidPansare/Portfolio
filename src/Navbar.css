@@ -1,0 +1,15 @@
+*{
+    font-family:sans-serif;
+}
+div.left{
+    display:flex;
+}
+h3:hover {
+    background-color: #2b2b2b;
+    color:white;
+  }
+h3{
+    padding:1rem;
+    margin: 0;
+
+}
